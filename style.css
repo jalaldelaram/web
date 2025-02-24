@@ -291,3 +291,8 @@ footer {
     }
 }
 
+
+/* Visited state for the link with the ID "special-link" */
+a#special-link:visited {
+    color: #116C6E; /* Change the color after clicking */
+}
