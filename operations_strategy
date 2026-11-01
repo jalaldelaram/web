@@ -1,0 +1,100 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Jalal Delaram | Operations Strategy</title>
+	<link rel="icon" href="ut_logo.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Jalal Delaram</h1>
+        <p>Assistant Professor of Industrial Engineering</p>
+        <p>College of Engineering, University of Tehran</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="publications.html">Publications</a></li>
+			      <li><a href="supervision.html">Supervision</a></li>
+            <li><a href="courses.html">Courses</a></li>
+            <li><a href="experiences.html">Experiences</a></li>
+            <li><a href="awards.html">Awards</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Operations Strategy</h2>
+        
+		<br>
+		
+        <!-- Course Overview Section -->
+        <section>
+            <h3>Overview</h3>
+            <p align="justify">
+				Operations Strategy is the long-term pattern of decisions through which an organization designs, develops, and manages its operational resources and processes to support its overall business strategy and achieve competitive advantage. It focuses on how an organization transforms inputs into products and services in a way that meets market requirements and creates value for customers. It involves fundamental decisions regarding capacity, supply networks, process technology, product and service development, and operational improvement. Unlike day-to-day operations management, which focuses on the efficient execution and control of current activities, operations strategy is concerned with building the capabilities and resources that determine an organization's future performance and competitive position.
+				<br>
+				At its core, Operations Strategy seeks to establish a strong fit between market requirements and operational capabilities. Organizations must understand what customers value, how competitors perform, and which competitive priorities (cost, quality, speed, dependability, and flexibility) are most important in their markets. They must then make coherent strategic decisions about their resources, technologies, processes, and supply networks to deliver these priorities effectively. Operations Strategy therefore extends beyond internal efficiency: it also considers how firms respond to competitors, manage strategic relationships, invest in capacity, and position themselves within their industries. Ultimately, it provides a framework for making long-term operational decisions that create value, strengthen competitiveness, and support sustainable organizational performance.
+            </p>
+        </section>
+        
+        <!-- Syllabus Section -->
+        <section>
+            
+		<br>
+			
+			<h3>Syllabus</h3>
+            <p><strong>Duration:</strong> 14 weeks</p>
+            <p><strong>Objectives:</strong> 
+                <li>Understand the foundations of Operations Strategy</li>
+                <li>Analyze competitive priorities</li>
+                <li>Evaluate strategic operations decisions</li>
+                <li>Understand the relationship between operations strategy and industry competition</li>
+				        <li>Analyze strategic interactions among competing firms</li>
+				        <li>Evaluate strategic pricing decisions</li>
+				        <li>Apply advanced analytical tools</li>
+				        <li>Develop and communicate integrated strategic recommendations</li>
+            </p>
+            <p><strong>Assessment Methods:</strong> 
+                <li>Attendance: +10%</li>
+	            	<li>Collaboration: 25%</li>
+	            	<li>Midterm exam: 25%</li>
+                <li>Final exam: 25%</li>
+	            	<li>Project: 25%</li>
+            </p>
+
+        <section>
+		
+		<br>
+		
+            <h3>Material</h3>
+            <p>The reference book of the course:</p>
+            <p>
+                <li><a href="osbookslack.rar" target="_blank" id="special-link">Slack, N., & Lewis, M. - Operations strategy (2023)</a></li>
+		        </p>
+        </section>
+
+        <section>
+		
+		<br>
+		
+            <h3>Schedule & Related Slides</h3>
+            <p>Below are the slides for each session in the course according to the schedule:</p>
+            <p>
+                <li><a href="osChapter1.rar" target="_blank" id="special-link">Chapter 1: Introduction to Operations Strategy</a></li>
+            		
+            </p>
+        </section>
+		
+	<br>
+
+    </main>
+    <footer>
+        © 2026 Jalal Delaram. All rights reserved.
+    </footer>
+</body>
+</html>
